@@ -2,3 +2,6 @@ npm init -y -> se cargan todos los recursos
 code . -> se abre el visual studio con la carpeta que queremos
 repositorios de paquetes npm -> https://www.npmjs.com/package/nodemon
 instala el nodemules -> npm i nodemon
+type module -> para usar la version de js moderno 
+API -> devuelven archivos .JSON
+carpeta Data -> tiene objetos que vamos a utilizar 
